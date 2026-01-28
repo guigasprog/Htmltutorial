@@ -1,7 +1,7 @@
 
   # HTML Tutorial with Divs
 
-  This is a code bundle for HTML Tutorial with Divs. The original project is available at https://www.figma.com/design/1WTdnbnaJs4vFuzQqxkGTF/HTML-Tutorial-with-Divs.
+  To access the link to this tutorial, [click here](https://chat-foil-57274546.figma.site/).
 
   ## Running the code
 
